@@ -1,6 +1,6 @@
 1. Make sure that Java (jre or jdk, version 1.8 or newer) is installed.
 
-2. Make sure you have the document collection (or part of it) in your hard drive.
+2. Make sure you have the document collection (or part of it) in your hard drive. Download link: https://drive.google.com/file/d/0B_5yL1YeXehQU1pNVjhhQTlFZE0/view?usp=sharing
 
 3. Install, if you haven't, the eclipse IDE (newest version recommended).
 
