@@ -1,0 +1,11 @@
+1. Make sure that Java (jre or jdk, version 1.8 or newer) is installed.
+
+2. Make sure you have the document collection (or part of it) in your hard drive.
+
+3. Install, if you haven't, the eclipse IDE (newest version recommended).
+
+4. Import source code into a project in eclipse.
+
+5. To execute indexing, run the IndexMain class from indexer package. Assign to the Java VM at least 8 GB of memory (-Xmx8g). After indexing is complete, there should be a folder named "CollectionIndex" containing 3 .txt files: VocabularyFile, PostingFile and DocumentsFile.
+
+7. To perform a keyword search, run the Searcher class from queryevaluator package.
